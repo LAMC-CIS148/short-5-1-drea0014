@@ -8,5 +8,7 @@ body {
 	margin: auto;
 	border: 15px double blue;
 }
-
+main {
+	padding: 10px;
+}
 	
