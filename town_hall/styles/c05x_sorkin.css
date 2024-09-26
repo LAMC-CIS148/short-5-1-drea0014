@@ -13,6 +13,5 @@ main {
 }
 footer {
 	border-top: 3px solid blue;
-	padding-left: 15px;
-	padding-right: 15px;
+	padding: 15px;
 }
