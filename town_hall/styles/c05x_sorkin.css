@@ -12,7 +12,7 @@ main {
 	padding: 10px 20px 10px 20px;
 }
 footer {
+	border-top: 3px solid blue;
 	padding-left: 15px;
 	padding-right: 15px;
-	border-top: 3px solid blue;
 }
