@@ -13,7 +13,7 @@ main {
 }
 footer {
 	border-top: 3px solid blue;
-	padding-left: 50px;
-	padding-right: 50px;
-	
+	padding-top: 10px;
+	margin-top: 3px;
+		
 }
