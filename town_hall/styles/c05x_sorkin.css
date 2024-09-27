@@ -3,6 +3,7 @@ html {
 }
 
 body {
+    background-color: white;
     width: 650px; 
     margin: 0 auto; 
     border: 5px double blue;
@@ -14,7 +15,6 @@ main {
 }
 
 footer {
-    background-color: white;
     border-top: 5px solid blue; 
     padding-top: 10px; 
 }
