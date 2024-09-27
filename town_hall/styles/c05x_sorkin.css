@@ -6,7 +6,7 @@ body {
     background-color: white;
     width: 650px;
     margin: 0 auto;
-    border: 6px double blue;
+    border: 10px double blue;
     padding: 20px;
 }
 
@@ -30,7 +30,7 @@ h1 {
 
 h2 {
     font-size: 125%;
-    margin: 15px 0;
+    margin: 10px 0;
 }
 
 h3 {
