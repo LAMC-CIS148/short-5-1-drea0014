@@ -47,7 +47,7 @@ cite {
     font-style: normal;
 }
 
-p-cite {
+cite.p {
     text-align: right;
     margin-bottom: .75em;
 }
