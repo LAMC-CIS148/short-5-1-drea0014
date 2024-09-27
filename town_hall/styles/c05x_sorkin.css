@@ -36,6 +36,7 @@ h2 {
 h3 {
     font-size: 115%;
     margin: 10px 0;
+    text-align: right;
 }
 
 p, blockquote, ul, li {
