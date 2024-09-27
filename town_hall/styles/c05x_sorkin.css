@@ -1,8 +1,12 @@
-body {
+html {
     background-color: yellow;
+}
+
+body {
+    background-color: white;
     width: 650px;
     margin: 0 auto;
-    border: 5px double blue;
+    border: 10px double blue;
     padding: 20px;
 }
 
@@ -12,50 +16,42 @@ main {
 
 footer {
     border-top: 2px solid blue;
-    text-align: center;
     font-size: 90%;
     font-weight: bold;
+    text-align: center;
     padding: 10px 0;
 }
 
 h1 {
     font-size: 150%;
     color: blue;
-    margin-bottom: 10px;
+    margin: 20px 0;
 }
 
 h2 {
     font-size: 125%;
-    margin-bottom: 10px;
+    margin: 4px 0;
 }
 
 h3 {
     font-size: 115%;
-    margin-bottom: 10px;
+    margin: 10px 0;
 }
 
 p, blockquote, ul, li {
-    margin-bottom: 15px;
+    margin: 5px 0;
 }
 
 cite {
     color: blue;
     font-style: normal;
-}
-
-p.cite-paragraph {
     text-align: right;
-    margin-bottom: 0.75em;
+    margin-bottom: .75em;
+
 }
 
 img {
     float: left;
     margin-right: 15px;
-}
-
-footer p {
-    font-size: 90%;
-    font-weight: bold;
-    text-align: center;
-    margin-top: 10px;
+    margin-bottom: 10px;
 }
