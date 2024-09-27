@@ -15,7 +15,7 @@ main {
 }
 
 footer {
-    border-top: 2px solid blue;
+    border-top: 5px solid blue;
     font-size: 90%; 
     font-weight: bold;
     text-align: center;
