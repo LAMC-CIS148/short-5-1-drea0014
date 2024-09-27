@@ -46,12 +46,8 @@ cite {
     color: blue;
     font-style: normal;
     text-align: right;
+    margin-bottom: .75em;
 
-}
-
-p.citation-paragraph {
-      text-align: right;
-      margin-bottom: .75em;
 }
 
 img {
