@@ -1,63 +1,60 @@
 html {
-    background-color: yellow; 
+    background-color: yellow;
 }
 
 body {
     background-color: white;
-    width: 650px; 
-    margin: 0 auto; 
-    border: 5px double blue;
-    padding: 20px; 
+    width: 650px;
+    margin: 0 auto;
+    border: 6px double blue;
+    padding: 20px;
 }
 
 main {
-    padding: 15px; 
+    padding: 20px;
 }
 
 footer {
-    border-top: 5px solid blue; 
-    padding-top: 10px; 
+    border-top: 2px solid blue;
+    font-size: 90%;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px 0;
 }
 
 h1 {
-    font-size: 150%; 
-    color: blue; 
+    font-size: 150%;
+    color: blue;
     margin: 20px 0;
 }
 
 h2 {
-    font-size: 125%; 
-    margin: 15px 0; 
+    font-size: 125%;
+    margin: 15px 0;
 }
 
 h3 {
-    font-size: 115%; 
-    margin: 10px 0; 
+    font-size: 115%;
+    margin: 10px 0;
 }
 
 p, blockquote, ul, li {
-    margin: 15px 0; 
+    margin: 15px 0;
 }
 
 cite {
-    color: blue; 
-    font-style: normal; 
+    color: blue;
+    font-style: normal;
 }
 
-p.cite-paragraph {
-    text-align: right; 
-    margin-bottom: 0.75em; 
+.citation-paragraph {
+    text-align: right;
+    margin-bottom: .75em;
 }
 
 img {
-    float: left; 
-    margin-right: 15px; 
-}
-
-footer p {
-    font-size: 90%; 
-    font-weight: bold; 
-    text-align: center; 
-    margin: 10px 0; 
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 10px;
 }
 
