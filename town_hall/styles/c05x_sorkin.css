@@ -42,7 +42,7 @@ p, blockquote, ul, li {
     margin: 5px 0;
 }
 
-<p><cite> {
+p.cite-paragraph {
     color: blue;
     font-style: normal;
     text-align: right;
