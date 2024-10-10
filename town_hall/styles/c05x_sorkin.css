@@ -11,7 +11,7 @@ body {
 }
 
 main {
-    padding: 10px;
+    padding: 15px;
 }
 
 footer {
@@ -19,7 +19,7 @@ footer {
     font-size: 90%;
     font-weight: bold;
     text-align: center;
-    padding: 20px 0;
+    padding: 10px 0;
 }
 
 h1 {
