@@ -19,18 +19,18 @@ footer {
     font-size: 90%;
     font-weight: bold;
     text-align: center;
-    padding: 5px 0;
+    padding: 20px 0;
 }
 
 h1 {
     font-size: 150%;
     color: blue;
-    margin: 5px 0;
+    margin: 10px 0;
 }
 
 h2 {
     font-size: 125%;
-    margin: 5px 0;
+    margin: 10px 0;
 }
 
 h3 {
