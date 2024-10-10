@@ -14,7 +14,7 @@ main {
     padding: 20px;
 }
 
-footer p {
+footer {
     border-top: 2px solid blue;
     font-size: 90%;
     font-weight: bold;
