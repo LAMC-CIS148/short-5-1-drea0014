@@ -25,21 +25,21 @@ footer {
 h1 {
     font-size: 150%;
     color: blue;
-    margin: 10px 0;
+    margin: 5px 0;
 }
 
 h2 {
     font-size: 125%;
-    margin: 10px 0;
+    margin: 5px 0;
 }
 
 h3 {
     font-size: 115%;
-    margin: 10px 0;
+    margin: 5px 0;
 }
 
 p, blockquote, ul, li {
-    margin: 10px 0;
+    margin: 5px 0;
 }
 
 cite {
